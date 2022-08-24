@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jawad (@jawad-stack) and a final year student of BS Software Engineering.
+- 👋 Hi, I’m Jawad (@jawad-stack) and a ReactJS developer.
 - 👀 I’m interested in MERN Stack and Blockchain development.
 - 💞️ I’m looking to collaborate on some of the projects and making some new projects.
 - 📫 Anyone can reach me anytime using any of information given in profile.
